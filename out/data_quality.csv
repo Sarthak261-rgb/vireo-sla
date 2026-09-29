@@ -1,0 +1,7 @@
+check,count,action
+rows in export,11816,
+ticket_ids present twice (helpdesk + legacy_fd),616,"kept helpdesk copy, dropped legacy copy"
+duplicate ticket_ids remaining,0,none expected
+voice tickets created outside 08:00-22:00 IST (validates UTC->IST),0,expected 0
+tickets with no first response,0,excluded from breach rate
+first response before creation,0,excluded

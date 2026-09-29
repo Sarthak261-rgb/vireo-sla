@@ -1,0 +1,4 @@
+channel,created_shift,first_seen,tickets,breaches,breach_rate
+chat,Night,2025-06-30 22:16:00,1036,1036,1.0
+email,Night,2025-07-01 22:01:00,779,387,0.497
+social,Night,2025-07-01 22:01:00,184,158,0.859

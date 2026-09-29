@@ -1,0 +1,364 @@
+<!doctype html><meta charset=utf-8><title>Vireo SLA report</title><style>body{font:15px/1.5 system-ui,Segoe UI,Arial;max-width:980px;margin:24px auto;padding:0 16px;color:#1a1a1a}h1{font-size:22px}h2{font-size:17px;margin-top:28px}table{border-collapse:collapse;font-size:13px;margin:8px 0}td,th{padding:4px 10px;border-bottom:1px solid #ddd;text-align:right}th{background:#f3f3f3}td:first-child,th:first-child{text-align:left}.big{background:#fff6e0;border-left:4px solid #e0a000;padding:10px 14px}.small{color:#666;font-size:12px}</style><h1>Vireo Audio: first-response SLA breach report</h1>
+<p class=small>Latest complete week ending 2026-06-28 (IST). Data window 2025-01-01 to 2026-06-30.
+Cleaned tickets: 11,200.</p>
+<div class=big><b>The one-line finding.</b> Tickets created in a window where nobody from the channel's frontline team was
+rostered (1,997 tickets, 22% of volume in the last 4 quarters) account for
+<b>1,579 of 2,229 breaches (70.8%)</b>. Every other ticket breaches at a flat
+9.4%. Restoring overnight cover would take the breach rate from 24.9% to about
+9.6% and avoid about Rs 114,220 of credits per quarter (at export volume).</div>
+
+<h2>1. Which shift is breaching most, as the helpdesk counts it vs. where the breach began (last 12 weeks)</h2>
+<table class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>shift (resolver)</th>
+      <th>breaches charged (helpdesk view)</th>
+      <th>of which created overnight with no cover</th>
+      <th>of which genuinely on-shift</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Day</td>
+      <td>75</td>
+      <td>11</td>
+      <td>64</td>
+    </tr>
+    <tr>
+      <td>Morning</td>
+      <td>452</td>
+      <td>369</td>
+      <td>83</td>
+    </tr>
+  </tbody>
+</table>
+<p class=small>The helpdesk charges a breach to whoever resolves the ticket. Overnight tickets are picked up and closed by the Morning
+shift (policy s7), so Morning looks worst while the cause is that nobody was on at night.</p>
+
+<h2>2. Weekly trend, last 8 weeks</h2>
+<table class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>week</th>
+      <th>breaches (coverage gap)</th>
+      <th>breaches (in-shift)</th>
+      <th>tickets (coverage gap)</th>
+      <th>tickets (in-shift)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>04 May 2026</td>
+      <td>25</td>
+      <td>10</td>
+      <td>32</td>
+      <td>126</td>
+    </tr>
+    <tr>
+      <td>11 May 2026</td>
+      <td>35</td>
+      <td>12</td>
+      <td>42</td>
+      <td>130</td>
+    </tr>
+    <tr>
+      <td>18 May 2026</td>
+      <td>31</td>
+      <td>14</td>
+      <td>39</td>
+      <td>139</td>
+    </tr>
+    <tr>
+      <td>25 May 2026</td>
+      <td>31</td>
+      <td>10</td>
+      <td>41</td>
+      <td>116</td>
+    </tr>
+    <tr>
+      <td>01 Jun 2026</td>
+      <td>24</td>
+      <td>12</td>
+      <td>32</td>
+      <td>130</td>
+    </tr>
+    <tr>
+      <td>08 Jun 2026</td>
+      <td>33</td>
+      <td>14</td>
+      <td>42</td>
+      <td>121</td>
+    </tr>
+    <tr>
+      <td>15 Jun 2026</td>
+      <td>35</td>
+      <td>11</td>
+      <td>44</td>
+      <td>151</td>
+    </tr>
+    <tr>
+      <td>22 Jun 2026</td>
+      <td>36</td>
+      <td>13</td>
+      <td>46</td>
+      <td>161</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2>3. Coverage gaps (created with no rostered agent from the channel's frontline team)</h2>
+<table class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>channel</th>
+      <th>created_shift</th>
+      <th>first_seen</th>
+      <th>tickets</th>
+      <th>breaches</th>
+      <th>breach_rate</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>chat</td>
+      <td>Night</td>
+      <td>2025-06-30 22:16</td>
+      <td>1036</td>
+      <td>1036</td>
+      <td>1.000</td>
+    </tr>
+    <tr>
+      <td>email</td>
+      <td>Night</td>
+      <td>2025-07-01 22:01</td>
+      <td>779</td>
+      <td>387</td>
+      <td>0.497</td>
+    </tr>
+    <tr>
+      <td>social</td>
+      <td>Night</td>
+      <td>2025-07-01 22:01</td>
+      <td>184</td>
+      <td>158</td>
+      <td>0.859</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2>4. Agents: on-shift breach rate, rolling 8 weeks, 8 lowest p-values</h2>
+<p>0 of 41 agents are statistically above the desk's on-shift breach rate (threshold: at least 30 on-shift tickets in 8 weeks and p&lt;0.01). There is nobody to have a performance conversation with on this measure.</p>
+<table class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>name</th>
+      <th>team</th>
+      <th>shift</th>
+      <th>in_shift_tickets</th>
+      <th>in_shift_breaches</th>
+      <th>in_shift_rate</th>
+      <th>p_value</th>
+      <th>flag</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Rohit Jain</td>
+      <td>Escalations &amp; Warranty</td>
+      <td>Morning</td>
+      <td>19</td>
+      <td>4</td>
+      <td>0.211</td>
+      <td>0.0948</td>
+      <td>False</td>
+    </tr>
+    <tr>
+      <td>Om Malhotra</td>
+      <td>Logistics</td>
+      <td>Morning</td>
+      <td>46</td>
+      <td>7</td>
+      <td>0.152</td>
+      <td>0.1334</td>
+      <td>False</td>
+    </tr>
+    <tr>
+      <td>Riya Gaikwad</td>
+      <td>Escalations &amp; Warranty</td>
+      <td>Morning</td>
+      <td>14</td>
+      <td>3</td>
+      <td>0.214</td>
+      <td>0.1362</td>
+      <td>False</td>
+    </tr>
+    <tr>
+      <td>Aadhya Sheikh</td>
+      <td>Billing</td>
+      <td>Morning</td>
+      <td>30</td>
+      <td>5</td>
+      <td>0.167</td>
+      <td>0.1430</td>
+      <td>False</td>
+    </tr>
+    <tr>
+      <td>Neha Chatterjee</td>
+      <td>Chat Frontline</td>
+      <td>Morning</td>
+      <td>15</td>
+      <td>3</td>
+      <td>0.200</td>
+      <td>0.1591</td>
+      <td>False</td>
+    </tr>
+    <tr>
+      <td>Steven Chopra</td>
+      <td>Escalations &amp; Warranty</td>
+      <td>Day</td>
+      <td>10</td>
+      <td>2</td>
+      <td>0.200</td>
+      <td>0.2383</td>
+      <td>False</td>
+    </tr>
+    <tr>
+      <td>Aditya Dhillon</td>
+      <td>Email Frontline</td>
+      <td>Day</td>
+      <td>36</td>
+      <td>5</td>
+      <td>0.139</td>
+      <td>0.2425</td>
+      <td>False</td>
+    </tr>
+    <tr>
+      <td>Farah Sheikh</td>
+      <td>Email Frontline</td>
+      <td>Morning</td>
+      <td>46</td>
+      <td>6</td>
+      <td>0.130</td>
+      <td>0.2564</td>
+      <td>False</td>
+    </tr>
+  </tbody>
+</table>
+<p class=small>Full weekly agent table: weekly_by_agent.csv. A typical agent resolves about 3 tickets a week, so a single week says nothing
+about a person; that is why this view is rolling. Tier 2 (Escalations &amp; Warranty) is listed but never flagged (policy s6).</p>
+
+<h2>5. Quarterly view</h2>
+<table class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>quarter</th>
+      <th>tickets</th>
+      <th>breaches</th>
+      <th>credit_inr</th>
+      <th>breach_rate</th>
+      <th>gap_breaches</th>
+      <th>gap_share_of_breaches</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>2025Q1</td>
+      <td>1024</td>
+      <td>99</td>
+      <td>32550</td>
+      <td>0.097</td>
+      <td>0</td>
+      <td>0.000</td>
+    </tr>
+    <tr>
+      <td>2025Q2</td>
+      <td>1242</td>
+      <td>112</td>
+      <td>36400</td>
+      <td>0.090</td>
+      <td>2</td>
+      <td>0.018</td>
+    </tr>
+    <tr>
+      <td>2025Q3</td>
+      <td>1841</td>
+      <td>479</td>
+      <td>158900</td>
+      <td>0.260</td>
+      <td>335</td>
+      <td>0.699</td>
+    </tr>
+    <tr>
+      <td>2025Q4</td>
+      <td>2572</td>
+      <td>614</td>
+      <td>207200</td>
+      <td>0.239</td>
+      <td>429</td>
+      <td>0.699</td>
+    </tr>
+    <tr>
+      <td>2026Q1</td>
+      <td>2291</td>
+      <td>573</td>
+      <td>190050</td>
+      <td>0.250</td>
+      <td>410</td>
+      <td>0.716</td>
+    </tr>
+    <tr>
+      <td>2026Q2</td>
+      <td>2230</td>
+      <td>563</td>
+      <td>186900</td>
+      <td>0.252</td>
+      <td>405</td>
+      <td>0.719</td>
+    </tr>
+  </tbody>
+</table>
+<p class=small>Credits are issued on resolution (policy s3), so open/pending breaches are not yet costed.
+CSAT on breached tickets averages 2.79 vs 3.53 otherwise (4,006 responses; blanks and legacy zeros excluded).</p>
+
+<h2>6. Data checks applied</h2>
+<table class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>check</th>
+      <th>count</th>
+      <th>action</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>rows in export</td>
+      <td>11816</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>ticket_ids present twice (helpdesk + legacy_fd)</td>
+      <td>616</td>
+      <td>kept helpdesk copy, dropped legacy copy</td>
+    </tr>
+    <tr>
+      <td>duplicate ticket_ids remaining</td>
+      <td>0</td>
+      <td>none expected</td>
+    </tr>
+    <tr>
+      <td>voice tickets created outside 08:00-22:00 IST (validates UTC-&gt;IST)</td>
+      <td>0</td>
+      <td>expected 0</td>
+    </tr>
+    <tr>
+      <td>tickets with no first response</td>
+      <td>0</td>
+      <td>excluded from breach rate</td>
+    </tr>
+    <tr>
+      <td>first response before creation</td>
+      <td>0</td>
+      <td>excluded</td>
+    </tr>
+  </tbody>
+</table>

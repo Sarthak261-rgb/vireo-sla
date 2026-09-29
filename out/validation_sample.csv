@@ -1,0 +1,31 @@
+ticket_id,channel,created_at,created_at_ist,first_response_at_ist,frt_min,target_min,breach,created_shift,cause,agent_id,resolver_name,resolver_shift
+TK-240732,social,2025-02-25 06:29:00,2025-02-25 11:59:00,2025-02-25 12:22:00,23.0,240,False,Morning,in-shift,A3013,Ritika Chatterjee,Morning
+TK-250236,chat,2026-02-25 18:01:00,2026-02-25 23:31:00,2026-02-26 06:43:00,432.0,15,True,Night,coverage gap,A3007,Neha Gaikwad,Morning
+TK-250327,voice,2026-02-28 15:21:00,2026-02-28 20:51:00,2026-02-28 22:01:00,70.0,120,False,Day,in-shift,A3025,Lobsang Rao,Morning
+TK-249616,email,2026-02-05 05:36:00,2026-02-05 11:06:00,2026-02-05 15:11:00,245.0,480,False,Morning,in-shift,A3034,Thomas Patel,Day
+TK-250657,email,2026-03-11 07:08:00,2026-03-11 12:38:00,2026-03-11 18:05:00,327.0,480,False,Morning,in-shift,A3040,Thomas Arora,Day
+TK-252897,social,2026-05-23 02:09:00,2026-05-23 07:39:00,2026-05-23 08:59:00,80.0,240,False,Morning,in-shift,A3005,Sameer Joshi,Morning
+TK-253217,chat,2026-06-03 17:08:00,2026-06-03 22:38:00,2026-06-04 07:13:00,515.0,15,True,Night,coverage gap,A3008,Steven Kaur,Morning
+TK-247124,chat,2025-11-25 08:32:00,2025-11-25 14:02:00,2025-11-25 14:18:00,16.0,15,True,Day,in-shift,A3027,Dev Chatterjee,Day
+TK-242038,chat,2025-05-14 07:05:00,2025-05-14 12:35:00,2025-05-14 12:48:00,13.0,15,False,Morning,in-shift,A3010,Neha Chatterjee,Morning
+TK-241084,email,2025-03-18 13:21:00,2025-03-18 18:51:00,2025-03-18 20:44:00,113.0,480,False,Day,in-shift,A3030,Sunita Srivastava,Day
+TK-252260,email,2026-05-02 06:25:00,2026-05-02 11:55:00,2026-05-02 13:21:00,86.0,480,False,Morning,in-shift,A3019,Sai Sandhu,Morning
+TK-248049,email,2025-12-19 14:44:00,2025-12-19 20:14:00,2025-12-19 22:14:00,120.0,480,False,Day,in-shift,A3028,Krishna Kaur,Morning
+TK-242546,email,2025-06-14 09:28:00,2025-06-14 14:58:00,2025-06-14 16:29:00,91.0,480,False,Day,in-shift,A3021,Aditya Dhillon,Day
+TK-254030,chat,2026-06-28 06:10:00,2026-06-28 11:40:00,2026-06-28 11:47:00,7.0,15,False,Morning,in-shift,A3031,Om Malhotra,Morning
+TK-251024,email,2026-03-22 01:35:00,2026-03-22 07:05:00,2026-03-22 09:38:00,153.0,480,False,Morning,in-shift,A3018,Farah Sheikh,Morning
+TK-253366,chat,2026-06-08 09:29:00,2026-06-08 14:59:00,2026-06-08 15:01:00,2.0,15,False,Day,in-shift,A3015,Yash Agarwal,Day
+TK-250119,voice,2026-02-21 15:28:00,2026-02-21 20:58:00,2026-02-21 21:11:00,13.0,120,False,Day,in-shift,A3023,Rahul Khanna,Day
+TK-242759,email,2025-06-25 06:59:00,2025-06-25 12:29:00,2025-06-25 13:31:00,62.0,480,False,Morning,in-shift,A3018,Farah Sheikh,Morning
+TK-240210,email,2025-01-23 16:49:00,2025-01-23 22:19:00,2025-01-23 23:38:00,79.0,480,False,Night,in-shift,A3028,Krishna Kaur,Morning
+TK-244936,chat,2025-09-21 16:56:00,2025-09-21 22:26:00,2025-09-22 06:32:00,486.0,15,True,Night,coverage gap,A3032,Aadhya Sheikh,Morning
+TK-252976,chat,2026-05-25 09:55:00,2026-05-25 15:25:00,2026-05-25 15:41:00,16.0,15,True,Day,in-shift,A3006,Lakshmi Reddy,Day
+TK-245637,chat,2025-10-15 13:14:00,2025-10-15 18:44:00,2025-10-15 18:49:00,5.0,15,False,Day,in-shift,A3012,Lakshmi Sethi,Day
+TK-243206,chat,2025-07-21 06:27:00,2025-07-21 11:57:00,2025-07-21 12:06:00,9.0,15,False,Morning,in-shift,A3035,Rohit Mukherjee,Morning
+TK-251533,chat,2026-04-07 16:42:00,2026-04-07 22:12:00,2026-04-08 06:53:00,521.0,15,True,Night,coverage gap,A3014,Diya Patil,Morning
+TK-243256,voice,2025-07-23 06:24:00,2025-07-23 11:54:00,2025-07-23 13:45:00,111.0,120,False,Morning,in-shift,A3024,Kunal Khanna,Morning
+TK-252104,chat,2026-04-27 07:20:00,2026-04-27 12:50:00,2026-04-27 12:58:00,8.0,15,False,Morning,in-shift,A3040,Thomas Arora,Day
+TK-252597,email,2026-05-13 14:05:00,2026-05-13 19:35:00,2026-05-13 20:43:00,68.0,480,False,Day,in-shift,A3020,Ramesh Ghosh,Day
+TK-244887,social,2025-09-20 02:30:00,2025-09-20 08:00:00,2025-09-20 08:52:00,52.0,240,False,Morning,in-shift,A3037,Rahul Sen,Morning
+TK-244461,social,2025-09-05 13:12:00,2025-09-05 18:42:00,2025-09-05 23:39:00,297.0,240,True,Day,in-shift,A3011,Karan Roy,Morning
+TK-250886,chat,2026-03-18 08:26:00,2026-03-18 13:56:00,2026-03-18 13:58:00,2.0,15,False,Morning,in-shift,A3039,Riya Gaikwad,Morning

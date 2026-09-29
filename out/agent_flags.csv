@@ -1,0 +1,42 @@
+agent_id,name,team,shift,tier,in_shift_tickets,in_shift_breaches,in_shift_rate,baseline,p_value,flag
+A3043,Rohit Jain,Escalations & Warranty,Morning,2,19,4,0.211,0.093,0.0948,False
+A3031,Om Malhotra,Logistics,Morning,1,46,7,0.152,0.093,0.1334,False
+A3039,Riya Gaikwad,Escalations & Warranty,Morning,2,14,3,0.214,0.093,0.1362,False
+A3032,Aadhya Sheikh,Billing,Morning,1,30,5,0.167,0.093,0.143,False
+A3010,Neha Chatterjee,Chat Frontline,Morning,1,15,3,0.2,0.093,0.1591,False
+A3042,Steven Chopra,Escalations & Warranty,Day,2,10,2,0.2,0.093,0.2383,False
+A3021,Aditya Dhillon,Email Frontline,Day,1,36,5,0.139,0.093,0.2425,False
+A3018,Farah Sheikh,Email Frontline,Morning,1,46,6,0.13,0.093,0.2564,False
+A3006,Lakshmi Reddy,Chat Frontline,Day,1,20,3,0.15,0.093,0.2854,False
+A3019,Sai Sandhu,Email Frontline,Morning,1,41,5,0.122,0.093,0.3357,False
+A3005,Sameer Joshi,Chat Frontline,Morning,1,13,2,0.154,0.093,0.3459,False
+A3002,Tarun Mishra,Chat Frontline,Day,1,23,3,0.13,0.093,0.3649,False
+A3008,Steven Kaur,Chat Frontline,Morning,1,16,2,0.125,0.093,0.4482,False
+A3022,Steven Tiwari,Email Frontline,Day,1,39,4,0.103,0.093,0.5001,False
+A3035,Rohit Mukherjee,Billing,Morning,1,40,4,0.1,0.093,0.5205,False
+A3025,Lobsang Rao,Voice Frontline,Morning,1,19,2,0.105,0.093,0.5408,False
+A3012,Lakshmi Sethi,Chat Frontline,Day,1,31,3,0.097,0.093,0.5629,False
+A3009,Ramesh Patel,Chat Frontline,Morning,1,20,2,0.1,0.093,0.5691,False
+A3007,Neha Gaikwad,Chat Frontline,Morning,1,20,2,0.1,0.093,0.5691,False
+A3033,Amit Kulkarni,Billing,Morning,1,21,2,0.095,0.093,0.5962,False
+A3003,Harpreet Deshpande,Chat Frontline,Day,1,22,2,0.091,0.093,0.622,False
+A3015,Yash Agarwal,Chat Frontline,Day,1,24,2,0.083,0.093,0.6697,False
+A3038,Amit Yadav,Returns Desk,Day,1,25,2,0.08,0.093,0.6916,False
+A3037,Rahul Sen,Returns Desk,Morning,1,40,3,0.075,0.093,0.7344,False
+A3024,Kunal Khanna,Voice Frontline,Morning,1,15,1,0.067,0.093,0.7701,False
+A3030,Sunita Srivastava,Logistics,Day,1,30,2,0.067,0.093,0.7839,False
+A3020,Ramesh Ghosh,Email Frontline,Day,1,31,2,0.065,0.093,0.7991,False
+A3004,Krishna Naidu,Chat Frontline,Day,1,17,1,0.059,0.093,0.811,False
+A3028,Krishna Kaur,Logistics,Morning,1,32,2,0.062,0.093,0.8134,False
+A3013,Ritika Chatterjee,Chat Frontline,Morning,1,18,1,0.056,0.093,0.8287,False
+A3027,Dev Chatterjee,Logistics,Day,1,35,2,0.057,0.093,0.8509,False
+A3044,Kunal Malhotra,Escalations & Warranty,Day,2,21,1,0.048,0.093,0.8723,False
+A3034,Thomas Patel,Billing,Day,1,75,4,0.053,0.093,0.9282,False
+A3036,Rohit Shinde,Returns Desk,Day,1,32,1,0.031,0.093,0.9566,False
+A3026,Lakshmi Qureshi,Voice Frontline,Day,1,33,1,0.03,0.093,0.9606,False
+A3014,Diya Patil,Chat Frontline,Morning,1,19,0,0.0,0.093,1.0,False
+A3029,Rajat Iyer,Logistics,Day,1,30,0,0.0,0.093,1.0,False
+A3023,Rahul Khanna,Voice Frontline,Day,1,24,0,0.0,0.093,1.0,False
+A3011,Karan Roy,Chat Frontline,Morning,1,13,0,0.0,0.093,1.0,False
+A3041,Riya Fernandes,Escalations & Warranty,Day,2,10,0,0.0,0.093,1.0,False
+A3040,Thomas Arora,Escalations & Warranty,Day,2,9,0,0.0,0.093,1.0,False

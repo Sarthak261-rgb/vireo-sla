@@ -1,0 +1,21 @@
+{
+  "window": "2025-07-01 to 2026-06-30",
+  "quarters": 4,
+  "tickets": 8934,
+  "breaches": 2229,
+  "breach_rate": 0.2495,
+  "credit_inr_total": 743050,
+  "credit_inr_per_quarter": 185762,
+  "gap_tickets": 1997,
+  "gap_breaches": 1579,
+  "gap_share_of_breaches": 0.708,
+  "in_shift_breach_rate": 0.0937,
+  "avoidable_breaches": 1375,
+  "avoidable_credit_inr": 456879,
+  "avoidable_credit_inr_per_quarter": 114220,
+  "breach_rate_if_fixed": 0.0956,
+  "current_quarter_breach_rate": 0.2525,
+  "csat_breached": 2.79,
+  "csat_ok": 3.53,
+  "csat_responses": 4006
+}

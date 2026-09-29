@@ -1,0 +1,239 @@
+week,created_shift,cause,tickets,breaches,breach_rate
+2024-12-30,Day,in-shift,12,0,0.0
+2024-12-30,Morning,in-shift,11,0,0.0
+2024-12-30,Night,in-shift,8,0,0.0
+2025-01-06,Day,in-shift,21,1,0.048
+2025-01-06,Morning,in-shift,16,2,0.125
+2025-01-06,Night,in-shift,13,0,0.0
+2025-01-13,Day,in-shift,23,1,0.043
+2025-01-13,Morning,in-shift,25,5,0.2
+2025-01-13,Night,in-shift,10,2,0.2
+2025-01-20,Day,in-shift,41,1,0.024
+2025-01-20,Morning,in-shift,24,5,0.208
+2025-01-20,Night,in-shift,15,1,0.067
+2025-01-27,Day,in-shift,28,1,0.036
+2025-01-27,Morning,in-shift,27,3,0.111
+2025-01-27,Night,in-shift,17,2,0.118
+2025-02-03,Day,in-shift,38,8,0.211
+2025-02-03,Morning,in-shift,24,5,0.208
+2025-02-03,Night,in-shift,23,3,0.13
+2025-02-10,Day,in-shift,34,3,0.088
+2025-02-10,Morning,in-shift,37,5,0.135
+2025-02-10,Night,in-shift,12,1,0.083
+2025-02-17,Day,in-shift,47,6,0.128
+2025-02-17,Morning,in-shift,39,4,0.103
+2025-02-17,Night,in-shift,12,0,0.0
+2025-02-24,Day,in-shift,44,3,0.068
+2025-02-24,Morning,in-shift,32,3,0.094
+2025-02-24,Night,in-shift,18,1,0.056
+2025-03-03,Day,in-shift,36,1,0.028
+2025-03-03,Morning,in-shift,31,1,0.032
+2025-03-03,Night,in-shift,19,4,0.211
+2025-03-10,Day,in-shift,45,2,0.044
+2025-03-10,Morning,in-shift,28,3,0.107
+2025-03-10,Night,in-shift,28,4,0.143
+2025-03-17,Day,in-shift,36,2,0.056
+2025-03-17,Morning,in-shift,35,5,0.143
+2025-03-17,Night,in-shift,17,3,0.176
+2025-03-24,Day,in-shift,35,2,0.057
+2025-03-24,Morning,in-shift,35,2,0.057
+2025-03-24,Night,in-shift,16,2,0.125
+2025-03-31,Day,in-shift,40,5,0.125
+2025-03-31,Morning,in-shift,46,5,0.109
+2025-03-31,Night,in-shift,18,1,0.056
+2025-04-07,Day,in-shift,37,5,0.135
+2025-04-07,Morning,in-shift,33,1,0.03
+2025-04-07,Night,in-shift,17,1,0.059
+2025-04-14,Day,in-shift,32,5,0.156
+2025-04-14,Morning,in-shift,34,3,0.088
+2025-04-14,Night,in-shift,17,5,0.294
+2025-04-21,Day,in-shift,40,3,0.075
+2025-04-21,Morning,in-shift,32,2,0.062
+2025-04-21,Night,in-shift,28,1,0.036
+2025-04-28,Day,in-shift,47,1,0.021
+2025-04-28,Morning,in-shift,42,2,0.048
+2025-04-28,Night,in-shift,25,4,0.16
+2025-05-05,Day,in-shift,39,4,0.103
+2025-05-05,Morning,in-shift,32,1,0.031
+2025-05-05,Night,in-shift,27,1,0.037
+2025-05-12,Day,in-shift,34,3,0.088
+2025-05-12,Morning,in-shift,35,3,0.086
+2025-05-12,Night,in-shift,17,3,0.176
+2025-05-19,Day,in-shift,34,7,0.206
+2025-05-19,Morning,in-shift,47,2,0.043
+2025-05-19,Night,in-shift,16,2,0.125
+2025-05-26,Day,in-shift,28,5,0.179
+2025-05-26,Morning,in-shift,37,4,0.108
+2025-05-26,Night,in-shift,24,1,0.042
+2025-06-02,Day,in-shift,32,3,0.094
+2025-06-02,Morning,in-shift,33,1,0.03
+2025-06-02,Night,in-shift,18,1,0.056
+2025-06-09,Day,in-shift,43,1,0.023
+2025-06-09,Morning,in-shift,27,4,0.148
+2025-06-09,Night,in-shift,17,1,0.059
+2025-06-16,Day,in-shift,41,3,0.073
+2025-06-16,Morning,in-shift,45,3,0.067
+2025-06-16,Night,in-shift,32,1,0.031
+2025-06-23,Day,in-shift,38,4,0.105
+2025-06-23,Morning,in-shift,34,3,0.088
+2025-06-23,Night,in-shift,22,5,0.227
+2025-06-30,Day,in-shift,34,2,0.059
+2025-06-30,Morning,in-shift,33,3,0.091
+2025-06-30,Night,coverage gap,24,23,0.958
+2025-06-30,Night,in-shift,1,0,0.0
+2025-07-07,Day,in-shift,44,4,0.091
+2025-07-07,Morning,in-shift,29,2,0.069
+2025-07-07,Night,coverage gap,27,19,0.704
+2025-07-14,Day,in-shift,47,2,0.043
+2025-07-14,Morning,in-shift,41,1,0.024
+2025-07-14,Night,coverage gap,12,12,1.0
+2025-07-21,Day,in-shift,58,5,0.086
+2025-07-21,Morning,in-shift,42,7,0.167
+2025-07-21,Night,coverage gap,24,18,0.75
+2025-07-28,Day,in-shift,58,6,0.103
+2025-07-28,Morning,in-shift,52,6,0.115
+2025-07-28,Night,coverage gap,26,22,0.846
+2025-08-04,Day,in-shift,50,2,0.04
+2025-08-04,Morning,in-shift,66,6,0.091
+2025-08-04,Night,coverage gap,30,28,0.933
+2025-08-11,Day,in-shift,52,5,0.096
+2025-08-11,Morning,in-shift,62,7,0.113
+2025-08-11,Night,coverage gap,42,37,0.881
+2025-08-18,Day,in-shift,56,9,0.161
+2025-08-18,Morning,in-shift,52,8,0.154
+2025-08-18,Night,coverage gap,29,21,0.724
+2025-08-25,Day,in-shift,64,6,0.094
+2025-08-25,Morning,in-shift,76,7,0.092
+2025-08-25,Night,coverage gap,42,33,0.786
+2025-09-01,Day,in-shift,66,5,0.076
+2025-09-01,Morning,in-shift,41,5,0.122
+2025-09-01,Night,coverage gap,50,43,0.86
+2025-09-08,Day,in-shift,70,8,0.114
+2025-09-08,Morning,in-shift,63,9,0.143
+2025-09-08,Night,coverage gap,41,32,0.78
+2025-09-15,Day,in-shift,65,6,0.092
+2025-09-15,Morning,in-shift,63,9,0.143
+2025-09-15,Night,coverage gap,25,19,0.76
+2025-09-22,Day,in-shift,72,8,0.111
+2025-09-22,Morning,in-shift,55,3,0.055
+2025-09-22,Night,coverage gap,27,22,0.815
+2025-09-29,Day,in-shift,57,5,0.088
+2025-09-29,Morning,in-shift,65,6,0.092
+2025-09-29,Night,coverage gap,39,27,0.692
+2025-10-06,Day,in-shift,80,9,0.112
+2025-10-06,Morning,in-shift,75,12,0.16
+2025-10-06,Night,coverage gap,30,19,0.633
+2025-10-13,Day,in-shift,98,8,0.082
+2025-10-13,Morning,in-shift,77,5,0.065
+2025-10-13,Night,coverage gap,38,32,0.842
+2025-10-20,Day,in-shift,69,8,0.116
+2025-10-20,Morning,in-shift,88,11,0.125
+2025-10-20,Night,coverage gap,54,43,0.796
+2025-10-27,Day,in-shift,88,11,0.125
+2025-10-27,Morning,in-shift,69,3,0.043
+2025-10-27,Night,coverage gap,43,35,0.814
+2025-11-03,Day,in-shift,75,4,0.053
+2025-11-03,Morning,in-shift,76,11,0.145
+2025-11-03,Night,coverage gap,45,38,0.844
+2025-11-10,Day,in-shift,83,5,0.06
+2025-11-10,Morning,in-shift,70,3,0.043
+2025-11-10,Night,coverage gap,32,26,0.812
+2025-11-17,Day,in-shift,80,12,0.15
+2025-11-17,Morning,in-shift,73,5,0.068
+2025-11-17,Night,coverage gap,45,33,0.733
+2025-11-24,Day,in-shift,86,8,0.093
+2025-11-24,Morning,in-shift,85,7,0.082
+2025-11-24,Night,coverage gap,60,46,0.767
+2025-12-01,Day,in-shift,87,7,0.08
+2025-12-01,Morning,in-shift,67,12,0.179
+2025-12-01,Night,coverage gap,50,39,0.78
+2025-12-08,Day,in-shift,80,7,0.088
+2025-12-08,Morning,in-shift,74,6,0.081
+2025-12-08,Night,coverage gap,32,28,0.875
+2025-12-15,Day,in-shift,92,4,0.043
+2025-12-15,Morning,in-shift,56,5,0.089
+2025-12-15,Night,coverage gap,39,24,0.615
+2025-12-22,Day,in-shift,64,8,0.125
+2025-12-22,Morning,in-shift,67,4,0.06
+2025-12-22,Night,coverage gap,47,33,0.702
+2025-12-29,Day,in-shift,88,8,0.091
+2025-12-29,Morning,in-shift,69,9,0.13
+2025-12-29,Night,coverage gap,47,39,0.83
+2026-01-05,Day,in-shift,80,10,0.125
+2026-01-05,Morning,in-shift,68,4,0.059
+2026-01-05,Night,coverage gap,34,26,0.765
+2026-01-12,Day,in-shift,82,7,0.085
+2026-01-12,Morning,in-shift,65,12,0.185
+2026-01-12,Night,coverage gap,41,29,0.707
+2026-01-19,Day,in-shift,81,7,0.086
+2026-01-19,Morning,in-shift,56,1,0.018
+2026-01-19,Night,coverage gap,47,43,0.915
+2026-01-26,Day,in-shift,75,5,0.067
+2026-01-26,Morning,in-shift,59,8,0.136
+2026-01-26,Night,coverage gap,43,31,0.721
+2026-02-02,Day,in-shift,79,9,0.114
+2026-02-02,Morning,in-shift,59,8,0.136
+2026-02-02,Night,coverage gap,38,27,0.711
+2026-02-09,Day,in-shift,66,5,0.076
+2026-02-09,Morning,in-shift,64,5,0.078
+2026-02-09,Night,coverage gap,39,27,0.692
+2026-02-16,Day,in-shift,59,1,0.017
+2026-02-16,Morning,in-shift,63,3,0.048
+2026-02-16,Night,coverage gap,47,33,0.702
+2026-02-23,Day,in-shift,83,6,0.072
+2026-02-23,Morning,in-shift,54,4,0.074
+2026-02-23,Night,coverage gap,30,24,0.8
+2026-03-02,Day,in-shift,72,9,0.125
+2026-03-02,Morning,in-shift,65,8,0.123
+2026-03-02,Night,coverage gap,34,28,0.824
+2026-03-09,Day,in-shift,79,4,0.051
+2026-03-09,Morning,in-shift,52,6,0.115
+2026-03-09,Night,coverage gap,47,41,0.872
+2026-03-16,Day,in-shift,80,6,0.075
+2026-03-16,Morning,in-shift,67,7,0.104
+2026-03-16,Night,coverage gap,45,34,0.756
+2026-03-23,Day,in-shift,68,4,0.059
+2026-03-23,Morning,in-shift,60,5,0.083
+2026-03-23,Night,coverage gap,37,30,0.811
+2026-03-30,Day,in-shift,69,12,0.174
+2026-03-30,Morning,in-shift,65,4,0.062
+2026-03-30,Night,coverage gap,38,35,0.921
+2026-04-06,Day,in-shift,73,7,0.096
+2026-04-06,Morning,in-shift,54,7,0.13
+2026-04-06,Night,coverage gap,31,27,0.871
+2026-04-13,Day,in-shift,79,6,0.076
+2026-04-13,Morning,in-shift,52,4,0.077
+2026-04-13,Night,coverage gap,42,35,0.833
+2026-04-20,Day,in-shift,67,8,0.119
+2026-04-20,Morning,in-shift,65,9,0.138
+2026-04-20,Night,coverage gap,41,33,0.805
+2026-04-27,Day,in-shift,75,7,0.093
+2026-04-27,Morning,in-shift,62,3,0.048
+2026-04-27,Night,coverage gap,44,35,0.795
+2026-05-04,Day,in-shift,73,6,0.082
+2026-05-04,Morning,in-shift,53,4,0.075
+2026-05-04,Night,coverage gap,32,25,0.781
+2026-05-11,Day,in-shift,83,6,0.072
+2026-05-11,Morning,in-shift,47,6,0.128
+2026-05-11,Night,coverage gap,42,35,0.833
+2026-05-18,Day,in-shift,79,6,0.076
+2026-05-18,Morning,in-shift,60,8,0.133
+2026-05-18,Night,coverage gap,39,31,0.795
+2026-05-25,Day,in-shift,60,4,0.067
+2026-05-25,Morning,in-shift,56,6,0.107
+2026-05-25,Night,coverage gap,41,31,0.756
+2026-06-01,Day,in-shift,70,5,0.071
+2026-06-01,Morning,in-shift,60,7,0.117
+2026-06-01,Night,coverage gap,32,24,0.75
+2026-06-08,Day,in-shift,66,8,0.121
+2026-06-08,Morning,in-shift,55,6,0.109
+2026-06-08,Night,coverage gap,42,33,0.786
+2026-06-15,Day,in-shift,76,6,0.079
+2026-06-15,Morning,in-shift,75,5,0.067
+2026-06-15,Night,coverage gap,44,35,0.795
+2026-06-22,Day,in-shift,93,8,0.086
+2026-06-22,Morning,in-shift,68,5,0.074
+2026-06-22,Night,coverage gap,46,36,0.783
+2026-06-29,Day,in-shift,13,1,0.077
+2026-06-29,Morning,in-shift,15,0,0.0
+2026-06-29,Night,coverage gap,3,2,0.667
