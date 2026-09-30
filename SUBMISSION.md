@@ -76,7 +76,7 @@ have been a second project and none would have made the breach conclusion more t
 
 Claude Code (Claude Sonnet 5.5) for reading the PDFs, exploring the data, writing all code, tests and docs. It helped most on exploration speed and finding the
 overnight pattern; it wasted time on the `assigned_team` coverage rule (v3, wrong) and a bash heredoc that silently failed. Thrown away: resolver league table, assigned_team rule,
-IVR-length flag, an LLM narrative step (see PROMPTS.md). Runtime tool uses no AI. Walkthrough video: `video/vireo_walkthrough.mp4` (2:17). **Disclosure: it is built from screenshots of the real outputs with text-to-speech narration (`VIDEO_SCRIPT.md`), not a live screen recording of me. [YOU: re-record over the same script in your own voice if you want, and add the hosted link.]**
+IVR-length flag, an LLM narrative step (see PROMPTS.md). Runtime tool uses no AI. Screen recording (max 3 min, my own voice, following `RECORD_THIS.md`): **[YOU: link]**.
 
 ## 9. Someone picks this up on Monday and you are unreachable. The three things they need to know.
 
