@@ -1,6 +1,6 @@
 **To:** Neha Kulkarni, Support Operations Manager
 **Cc:** Priya Raman, Arjun Mehta, Sameer Qureshi
-**From:** Kabir Nanda's team
+**From:** Sarthak
 **Re:** SLA breach report: what it shows, and what I'd change about the question
 
 Neha, your weekly report by agent and shift is built and attached (`out/report.html`, plus CSVs). I'd like you to read the
